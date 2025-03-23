@@ -1,5 +1,5 @@
 function redirectToInstagram() {
-    window.location.href = 'https://www.instagram.com/rhymes.and.lines/';
+    window.location.href = 'https://www.instagram.com/Rhymes&Lines/';
 }
 
 document.addEventListener('DOMContentLoaded', function() {
